@@ -22,4 +22,4 @@ javac -d out *.java
 java -cp out Main
 ```
 
-![UML diagram](https://www.mermaidchart.com/d/30bba854-1ab3-4a0d-8485-40deee912158)
+![UML diagram](parkinglotUML.png)
